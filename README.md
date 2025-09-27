@@ -41,25 +41,34 @@ The dataset includes detailed records of firefighter fatalities such as:
 Some of the charts generated in Python and saved under the `outputs/` folder:  
 
 1. **Fatalities by Year (Trend Line)** – Shows total deaths per year.  
-   ![Fatalities by Year](outputs/fatalities_by_year.png)
+   ![Fatalities by Year](outputs/deaths_by_year_with_rolling5.png)
 
 2. **Age Distribution (Histogram + KDE)** – Highlights age groups most at risk.  
-   ![Age Distribution](outputs/age_distribution.png)
+   ![Age Distribution](outputs/age_group_distribution.png)
 
 3. **Boxplot of Age by Duty** – Compares median ages across different duties.  
    ![Boxplot Age by Duty](outputs/boxplot_age_duty.png)
 
 4. **Top 15 Causes of Death (Bar Chart)** – Identifies leading fatality causes.  
-   ![Top Causes of Death](outputs/top_causes.png)
+   ![Top Causes of Death](outputs/top_causes_top15.png)
 
 5. **Fatalities by Duty & Activity (Heatmap)** – Shows most hazardous duty-activity combinations.  
-   ![Duty vs Activity Heatmap](outputs/duty_activity_heatmap.png)
+   ![Duty vs Activity Heatmap](outputs/duty_activity_heatmap_top.png)
 
 6. **Emergency vs Non-Emergency Cases (Pie Chart)** – Proportion of fatalities by emergency status.  
-   ![Emergency vs Non-Emergency](outputs/emergency_pie.png)
+   ![Emergency vs Non-Emergency](outputs/emergency_vs_non_emergency_pie.png)
 
-7. **Rolling 5-Year Average Trend** – Smooths out annual fluctuations.  
-   ![Rolling 5-Year Average](outputs/rolling_avg.png)
+7. **Monthly Seasonality (Stacked Column)** – Displays distribution of fatalities across months.  
+   ![Monthly Seasonality](outputs/monthly_seasonality.png)
+
+8. **Same-Day vs Delayed Deaths** – Comparison of immediate vs delayed fatalities.  
+   ![Same-Day vs Delayed](outputs/same_day_vs_delayed.png)
+
+9. **Average Age by Cause (Top 20)** – Shows which causes are associated with younger vs older fatalities.  
+   ![Avg Age by Cause](outputs/avg_age_by_cause_top20.png)
+
+10. **Top 20 Activities by Count** – Most hazardous activities linked to fatalities.  
+   ![Activity Counts Top 20](outputs/activity_counts_top20.png)
 
 
 ---
@@ -116,6 +125,9 @@ Run the Jupyter Notebook inside notebooks/ to reproduce charts.
 
 Power BI
 Open the .pbix file in Power BI Desktop (Free) to interact with the dashboard.
+
+
+
 
 ---
 
