@@ -1,0 +1,101 @@
+Duty,Activity,Property Type,Deaths
+On-Scene Fire,Search and Rescue,Store/Office,347
+On-Scene Fire,Advance Hose Lines/Fire Attack,Residential,112
+On-Scene Fire,Advance Hose Lines/Fire Attack,Outdoor Property,77
+Response,Personal Vehicle Driver/Passenger,Street/Road,66
+On-Duty,Not on Scene,,62
+On-Duty,In-Station Duties,Store/Office,59
+On-Duty,Other,Residential,59
+Response,Vehicle Driver,Street/Road,48
+On-Duty,Other,Store/Office,43
+On-Scene Fire,Search and Rescue,Residential,42
+Response,Vehicle Passenger,Street/Road,40
+On-Scene Fire,Advance Hose Lines/Fire Attack,Store/Office,37
+On-Duty,Other,Outdoor Property,28
+On-Duty,Other,Street/Road,24
+On-Scene Fire,Vehicle Driver,Outdoor Property,22
+Training,Other,Outdoor Property,21
+On-Duty,Personal Vehicle Driver/Passenger,Street/Road,21
+On-Duty,Other,N/A,19
+Training,Not on Scene,,17
+On-Scene Fire,Other,Outdoor Property,17
+On-Scene Emergency,Scene Safety,Street/Road,17
+On-Scene Emergency,Other,Street/Road,17
+On-Duty,Other,,16
+Training,Other,Store/Office,16
+On-Scene Fire,Support,Residential,16
+On-Scene Fire,Support,Outdoor Property,15
+On-Duty,In-Station Duties,N/A,14
+Training,Fitness Activity,Store/Office,14
+On-Scene Fire,Ventilation,Residential,14
+On-Duty,Vehicle Driver,Street/Road,13
+On-Scene Fire,Water Supply,Residential,13
+Training,Fitness Activity,Outdoor Property,13
+On-Scene Emergency,EMS/Patient Care,Street/Road,12
+Response,Vehicle Driver,Residential,11
+On-Scene Emergency,Support,Street/Road,11
+Response,Other,Residential,11
+Response,Vehicle Driver,Outdoor Property,11
+On-Scene Fire,Pump Operations,Residential,11
+On-Duty,Not on Scene,Store/Office,11
+On-Scene Fire,Incident Command,Residential,10
+On-Scene Emergency,Search and Rescue,Outdoor Property,10
+On-Scene Fire,Unknown,Manufacturing,9
+On-Scene Emergency,EMS/Patient Care,Residential,9
+Return,Vehicle Driver,Street/Road,9
+Response,Personal Vehicle Driver/Passenger,Residential,8
+On-Duty,Vehicle Driver,Outdoor Property,8
+Training,Other,Educational,8
+On-Duty,Support,Outdoor Property,7
+On-Scene Emergency,Incident Command,Street/Road,7
+Response,Other,Street/Road,7
+Training,Personal Vehicle Driver/Passenger,Street/Road,7
+On-Scene Fire,Advance Hose Lines/Fire Attack,Vacant Property,7
+On-Scene Fire,Support,Street/Road,6
+Response,Vehicle Passenger,Outdoor Property,6
+On-Scene Fire,Advance Hose Lines/Fire Attack,Manufacturing,6
+Response,Emergency Response,Street/Road,6
+On-Duty,Vehicle Passenger,Street/Road,6
+Training,Vehicle Driver,Street/Road,6
+On-Scene Fire,Salvage and Overhaul,Residential,6
+On-Duty,Not on Scene,Outdoor Property,6
+On-Scene Fire,Water Supply,Outdoor Property,6
+On-Scene Fire,Ventilation,Store/Office,6
+On-Scene Fire,Setup,Residential,6
+Training,Other,N/A,5
+On-Scene Fire,Incident Command,Outdoor Property,5
+Training,Other,Residential,5
+Response,Other,Store/Office,5
+On-Scene Fire,Unknown,Outdoor Property,5
+Training,Other,Institutional,5
+On-Duty,Not on Scene,Residential,5
+On-Duty,Support,Store/Office,5
+On-Duty,Not on Scene,Street/Road,4
+Response,Vehicle Driver,Store/Office,4
+Response,Vehicle Passenger,Residential,4
+Return,Other,,4
+On-Duty,Advance Hose Lines/Fire Attack,Residential,4
+Training,Vehicle Driver,Outdoor Property,4
+Training,Other,,4
+On-Scene Fire,Unknown,Residential,4
+On-Scene Fire,Scene Safety,Store/Office,4
+On-Scene Fire,Other,Street/Road,4
+On-Scene Fire,Other,Residential,4
+On-Scene Fire,Advance Hose Lines/Fire Attack,,4
+On-Scene Fire,Advance Hose Lines/Fire Attack,Street/Road,4
+On-Scene Fire,Advance Hose Lines/Fire Attack,Public Assembly,4
+On-Scene Emergency,Search and Rescue,Street/Road,4
+On-Duty,Other,Public Assembly,4
+On-Duty,Vehicle Passenger,Outdoor Property,4
+On-Duty,Standby,Store/Office,4
+Response,Emergency Response,Residential,4
+On-Scene Fire,Water Supply,Store/Office,4
+On-Scene Emergency,Search and Rescue,Residential,3
+Response,Emergency Response,,3
+On-Duty,Other,Industrial,3
+Training,Fitness Activity,N/A,3
+Return,Vehicle Passenger,Street/Road,3
+On-Duty,,,3
+On-Scene Emergency,Support,Residential,3
+On-Scene Fire,Scene Safety,Residential,3
+On-Duty,Support,Street/Road,3
