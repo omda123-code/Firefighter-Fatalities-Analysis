@@ -40,35 +40,35 @@ The dataset includes detailed records of firefighter fatalities such as:
 ## 📊 Python Charts & Visualizations
 Some of the charts generated in Python and saved under the `outputs/` folder:  
 
-1. **Fatalities by Year (Trend Line)** – Shows total deaths per year.  
-   ![Fatalities by Year](outputs/deaths_by_year_with_rolling5.png)
+1. **Fatalities by Year with Rolling 5-Year Average** – Shows annual fatalities and smoothed long-term trend.  
+   ![Fatalities by Year with Rolling 5-Year Avg](outputs/deaths_by_year_with_rolling5.png)
 
-2. **Age Distribution (Histogram + KDE)** – Highlights age groups most at risk.  
-   ![Age Distribution](outputs/age_group_distribution.png)
+2. **Age Group Distribution (Histogram + KDE)** – Highlights age groups most at risk.  
+   ![Age Group Distribution](outputs/age_group_distribution.png)
 
-3. **Boxplot of Age by Duty** – Compares median ages across different duties.  
-   ![Boxplot Age by Duty](outputs/boxplot_age_duty.png)
-
-4. **Top 15 Causes of Death (Bar Chart)** – Identifies leading fatality causes.  
+3. **Top 15 Causes of Death (Bar Chart)** – Identifies leading fatality causes.  
    ![Top Causes of Death](outputs/top_causes_top15.png)
 
-5. **Fatalities by Duty & Activity (Heatmap)** – Shows most hazardous duty-activity combinations.  
+4. **Duty × Activity Heatmap** – Shows most hazardous duty-activity combinations.  
    ![Duty vs Activity Heatmap](outputs/duty_activity_heatmap_top.png)
 
-6. **Emergency vs Non-Emergency Cases (Pie Chart)** – Proportion of fatalities by emergency status.  
+5. **Emergency vs Non-Emergency Cases (Pie Chart)** – Proportion of fatalities by emergency status.  
    ![Emergency vs Non-Emergency](outputs/emergency_vs_non_emergency_pie.png)
 
-7. **Monthly Seasonality (Stacked Column)** – Displays distribution of fatalities across months.  
+6. **Monthly Fatalities Seasonality** – Breaks down fatalities by month to reveal seasonal trends.  
    ![Monthly Seasonality](outputs/monthly_seasonality.png)
 
-8. **Same-Day vs Delayed Deaths** – Comparison of immediate vs delayed fatalities.  
-   ![Same-Day vs Delayed](outputs/same_day_vs_delayed.png)
+7. **Same-Day vs Delayed Deaths (Bar Chart)** – Compares immediate vs delayed fatalities.  
+   ![Same Day vs Delayed](outputs/same_day_vs_delayed.png)
 
-9. **Average Age by Cause (Top 20)** – Shows which causes are associated with younger vs older fatalities.  
-   ![Avg Age by Cause](outputs/avg_age_by_cause_top20.png)
+8. **Nature of Death by Duty (Stacked Bar Chart)** – Visualizes different death types across duties.  
+   ![Nature of Death by Duty](outputs/nature_of_death_by_duty_stacked.png)
 
-10. **Top 20 Activities by Count** – Most hazardous activities linked to fatalities.  
-   ![Activity Counts Top 20](outputs/activity_counts_top20.png)
+9. **Top 20 Activities by Fatalities (Bar Chart)** – Highlights the most fatal activities.  
+   ![Top 20 Activities](outputs/activity_counts_top20.png)
+
+10. **Average Age by Cause (Top 20)** – Compares average age of victims for the top 20 causes.  
+    ![Avg Age by Cause](outputs/avg_age_by_cause_top20.png)
 
 
 ---
@@ -110,24 +110,6 @@ Each page includes **cards, charts, and slicers** to filter by year, duty, activ
 - Improve **safety measures during high-risk activities** (e.g., advancing hose lines, response driving).  
 - Focus on **stress management and overexertion prevention programs**.  
 - Regular use of **data dashboards** to track ongoing safety performance.  
-
----
-
-## 🚀 How to Run
-### SQL Queries
-Open `sql_queries/` in **SQL Server Management Studio (SSMS)** and run each script on the dataset.  
-
-### Python Notebook
-```bash
-# Install dependencies
-pip install pandas matplotlib seaborn
-Run the Jupyter Notebook inside notebooks/ to reproduce charts.
-
-Power BI
-Open the .pbix file in Power BI Desktop (Free) to interact with the dashboard.
-
-
-
 
 ---
 
